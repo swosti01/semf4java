@@ -119,3 +119,61 @@ public class Assignment1 {
         a1.Condition();
     }
 }
+
+
+/*
+OUTPUT
+
+Using Arithmetic Operator
+Addition of two number is 18
+Substraction of two number is 8
+Multiplication of two number is 65
+Division of two number is 2
+Remainder of two number is 3
+
+Using Assignment Operator
+Enter a positive integer 
+8
+Increment (+=) 16
+Descremnt (-=) 0
+Multiplication (*=) 64
+Division (/=) 1
+
+Using for loop
+1 2 3 4 5 6 7 8 9 10 
+
+Using while loop
+-10 -9 -8 -7 -6 -5 -4 -3 -2 -1 
+
+Using do..while loop
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
+
+Using Continue
+1 2 3 4 6 7 8 9 10 
+Using Break
+1 2 3 4 5 
+
+Using if..else
+Odd
+
+Using if..else if...else and &&
+Largest number is 13
+
+Using || and !
+One of number 14 or 15 is even
+14 is even
+
+Using switch...case
+Value of z is three
+
+
+*/
